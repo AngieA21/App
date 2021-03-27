@@ -1,0 +1,55 @@
+.contenedor {
+    width: 500px;
+    margin: 50px auto 50px auto;
+    border-radius: 30px;
+    border-style: none;
+    background-color: #ffffff;
+    padding: 50px
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: bold;
+    color: #4c5059;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#instruction {
+    font-size: 15px;
+    font-weight: normal;
+    color: #4c5059;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+label {
+    text-align: left;
+    font-size: 15px;
+    color: #4c5059;
+}
+
+input {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-color: default;
+    ;
+}
+
+button {
+    width: 80px;
+    margin-top: 25px;
+    padding: 10px 0px 10px 0px;
+    font-size: 15px;
+    font-weight: bold;
+    border: 0px;
+    background-color: #FFD273;
+    border-radius: 5px;
+    border-style: solid;
+    color: #4c5059;
+    margin-top: 25px;
+}
+
+button:hover {
+    color: #00916E;
+}

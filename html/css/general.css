@@ -1,0 +1,80 @@
+body {
+    font-family: 'Balsamiq Sans', sans-serif;
+    background-color: #F0F2F5;
+}
+
+#logo img {
+    width: 20%;
+    padding-left: 20px;
+}
+
+#nav-opt {
+    padding-top: 25px;
+    padding-right: 20px;
+}
+
+header {
+    background-color: #00916E;
+    padding: 10px;
+}
+
+#navegacion-principal {
+    display: flow-root;
+}
+
+#navegacion-principal a {
+    font-family: 'Luckiest Guy', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: #e7e0d8;
+    padding: 10px;
+}
+
+#navegacion-principal a:hover {
+    color: #ecb796;
+}
+
+#navegacion-principal a:active {
+    color: #ecb796;
+}
+
+#navegacion-principal #logo {
+    float: left;
+}
+
+#navegacion-principal #nav-opt {
+    float: right;
+}
+
+footer {
+    display: flow-root;
+    font-family: 'Balsamiq Sans', sans-serif;
+    font-size: 15px;
+    background-color: #00916E;
+    padding: 20px;
+}
+
+#info-pagina {
+    float: left;
+    padding-left: 35px;
+    color: #ffffff;
+}
+
+#iconos-social-media {
+    float: right;
+    padding-right: 35px;
+    width: 300px;
+}
+
+#iconos-social-media #wp,
+#fb,
+#ig,
+#pinterest,
+#linkedin {
+    float: left;
+}
+
+#iconos-social-media img {
+    width: 35px;
+    padding: 10px;
+}
